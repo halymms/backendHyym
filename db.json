@@ -22,5 +22,27 @@
       "serie": "4°A",
       "nota": "50"
     }
-  ]
+  ],
+  "turmas": [
+      {
+        "serie": "4°",
+        "turma": "A",
+        "turno": "manhã"
+      },
+      {
+        "serie": "6°",
+        "turma": "H",
+        "turno": "tarde"
+      },
+      {
+        "serie": "5°",
+        "turma": "F",
+        "turno": "manhã"
+      },
+      {
+        "serie": "9°",
+        "turma": "G",
+        "turno": "noite"
+      }
+    ]
 }
