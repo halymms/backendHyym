@@ -1,0 +1,26 @@
+{
+  "notas": [
+    {
+      "nomeAluno": "joão",
+      "serie": "4°A",
+      "nota": "100"
+    },
+    {
+      "nomeAluno": "pedro",
+      "serie": "4°A",
+      "nota": "50"
+    },
+    
+    {
+      "nomeAluno": "marcela",
+      "serie": "4°A",
+      "nota": "70"
+    },
+    
+    {
+      "nomeAluno": "luiz",
+      "serie": "4°A",
+      "nota": "50"
+    }
+  ]
+}
